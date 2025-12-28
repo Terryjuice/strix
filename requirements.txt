@@ -1,0 +1,5 @@
+google-generativeai
+requests
+flask
+python-dotenv
+colorama
